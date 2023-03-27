@@ -42,7 +42,7 @@ Data set contain: \
 
 ### Data Analysis points:
 
-Problem statement: Looking at general overview about Data Set, to find more insights.
+Problem statement: Looking at general overview about Data Set to find more insights and to find famous model with potential best opportunity to buy new car.
 
 ### Data pre-processing:
 Change dtypes in 'category' to make decrease memory.\
